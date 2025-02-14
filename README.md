@@ -81,7 +81,7 @@ I'm currently exploring **Databricks**, taking a Datacamp course to familiarise 
 ## 📫 How to Reach Me
 
 - **Email:** ben.trzcinski@gmail.com
-- **LinkedIn:** [Ben Trzcinski](www.linkedin.com/in/ben-trzcinski-990195198)
+- **LinkedIn:** [Ben Trzcinski](https://www.linkedin.com/in/ben-trzcinski-990195198/)
 
 ---
 
